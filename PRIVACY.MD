@@ -4,7 +4,7 @@ The use of this application ("Bot") in a server requires the collection of some 
 
 ## Storage of Data
 
-We dont store any of your data, but if you are not 100% sure you can join our support server and ask `@Brewson` questions.
+We dont store any of your data, but if you are not 100% sure you can join our [Discord Support Server](https://discord.gg/fKbRCWFYDn) and ask `@Brewson` questions.
 
 ## User Rights
 
